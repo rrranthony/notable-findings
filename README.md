@@ -6,7 +6,7 @@
 
 [New programmers: what to work on](https://nicoleorchard.com/blog/what-should-i-work-on)
 
-[How to learn JavaScript](https://sivers.org/learn-js): books, freeCodeCamp, [tips for memorizing a programming language](https://sivers.org/srs) ([https://apps.ankiweb.net/](Anki flashcards)
+[How to learn JavaScript](https://sivers.org/learn-js): books, freeCodeCamp, [tips for memorizing a programming language](https://sivers.org/srs) ([https://apps.ankiweb.net/](Anki flashcards))
 
 
 
