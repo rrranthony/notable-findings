@@ -1,5 +1,16 @@
 # Notable Findings
 
+
+## Technology
+[Journey to becomming a software engineer in San Francisco with freeCodeCamp](https://medium.freecodecamp.com/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa)
+
+[New programmers: what to work on](https://nicoleorchard.com/blog/what-should-i-work-on)
+
+[How to learn JavaScript](https://sivers.org/learn-js): books, freeCodeCamp, [tips for memorizing a programming language](https://sivers.org/srs) ([https://apps.ankiweb.net/](Anki flashcards)
+
+
+
+## Miscellaneous
 [The Ten Most Important Books To Expand Your Brain](http://www.jamesaltucher.com/2015/09/books-brain-expand/)
 - A list of books by James Altucher
 - Also gives some thoughts on different types of books and which suck and which don't
