@@ -10,6 +10,11 @@
 
 
 
+## Finances
+[The best investment advice you'll never get](https://www.modernluxury.com/san-francisco/story/the-best-investment-advice-youll-never-get)
+
+
+
 ## Miscellaneous
 [The Ten Most Important Books To Expand Your Brain](http://www.jamesaltucher.com/2015/09/books-brain-expand/)
 - A list of books by James Altucher
