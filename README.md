@@ -4,9 +4,13 @@
 ## Technology
 [Journey to becomming a software engineer in San Francisco with freeCodeCamp](https://medium.freecodecamp.com/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa)
 
+[Earning a second degree and 5 developer certifiactions at an accelerated pace](https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab)
+
 [New programmers: what to work on](https://nicoleorchard.com/blog/what-should-i-work-on)
 
 [How to learn JavaScript](https://sivers.org/learn-js): books, freeCodeCamp, [tips for memorizing a programming language](https://sivers.org/srs) ([Anki flashcards](https://apps.ankiweb.net/))
+
+[JavaScript Basics video tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) ([background and details on the tutorials](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27))
 
 
 
