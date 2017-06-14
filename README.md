@@ -34,3 +34,22 @@
   - _Quiet_ by Susan Cain
   - _Antifragile_ by Nassim Taleb
   _ _Mindset_ by Carol Dweck
+
+
+
+## To sort through
+[funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): YouTube channel with videos on functional programming in JavaScript, among other things
+
+[The Linux Command Line](http://linuxcommand.org/tlcl.php): book on the Linux command line, but also free online content for learning the shell and writing shell scripts
+
+[Linux Insides](https://0xax.gitbooks.io/linux-insides/content/): a GitBook book on the linux kernal and its insides
+
+[Open Guide to Amazon Web Services](https://github.com/GorillaStack/og-aws): guide with basics, tips, and gotchas for most AWS services
+
+[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html): free interactive textbook
+
+[Data Structures and Algorithms Problems](http://www.techiedelight.com/list-of-problems/)
+
+[Gitbook](https://www.gitbook.com/): writing and publishing content (books, API doc, FAQs) online, and optionally hosting source on GitHub ([documentation on the structure of a GitBook](https://toolchain.gitbook.com/structure.html))
+
+[Micro Habits](https://hackernoon.com/micro-habits-changed-my-life-47f572bfc153)
